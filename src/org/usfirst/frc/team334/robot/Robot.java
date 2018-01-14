@@ -2,7 +2,8 @@ package org.usfirst.frc.team334.robot;
 
 import edu.wpi.first.wpilibj.IterativeRobot;
 
-public class Robot extends IterativeRobot{
+public class Robot extends IterativeRobot {
+    
     @Override
     public void robotInit() {
 
